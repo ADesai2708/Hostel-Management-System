@@ -36,9 +36,9 @@ Server: Apache (XAMPP / LAMP / WAMP)
 🚀 Installation & Setup
 Clone this repository
 
-bash
+
 Copy code
-git clone https://github.com/your-username/hostel-management-system.git
+git clone[ https://github.com/your-username/hostel-management-system.git](https://github.com/ADesai2708/Hostel-Management-System.git)
 Move the project folder to your server directory:
 
 For XAMPP → C:\xampp\htdocs\
